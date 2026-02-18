@@ -1,0 +1,44 @@
+# ==============================
+# Terraform
+# ==============================
+
+# Terraform working directory
+**/.terraform/*
+
+# Terraform state files
+*.tfstate
+*.tfstate.*
+
+# Terraform lock file (optional: usually safe to keep)
+# Uncomment if you want to ignore it
+# .terraform.lock.hcl
+
+# Terraform variable files (if containing sensitive data)
+*.tfvars
+*.tfvars.json
+
+# Crash logs
+crash.log
+crash.*.log
+
+# CLI configuration files
+.terraformrc
+terraform.rc
+
+# ==============================
+# OS / Editor
+# ==============================
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# ==============================
+# Logs
+# ==============================
+*.log
