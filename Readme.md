@@ -78,11 +78,11 @@ Website_Infra/
 
 Add the following three files: 
 
-1. ``index.html`` : The code for `index.html` is available in this repository.
+1. ``index.html`` : The code for `index.html` is available in this repository inside ``www`` directory.
 
-2. ``style.css`` : The code for ``style.css`` is present in this repository. 
+2. ``style.css`` : The code for ``style.css`` is present in this repository inside ``www`` directory. 
 
-3. ``script.js`` : The code for ``script.js`` is present in this repository.
+3. ``script.js`` : The code for ``script.js`` is present in this repository inside ``www`` directory.
 
 
 **Step 2: Inside “Website_Infra” folder add the code for provider configuration:** 
