@@ -24,7 +24,7 @@ User → Internet → Domain → CloudFront Distribution → S3 Bucket (Static W
 
 
 ### Components:
-- - **Private S3 Bucket**: Hosts static website files (HTML, CSS, JS) and is not directly accessible to the public
+- **Private S3 Bucket**: Hosts static website files (HTML, CSS, JS) and is not directly accessible to the public
 - **CloudFront Distribution**: Global CDN for fast and secure content delivery
 - **Origin Access Control (OAC)**: Secures authentication between CloudFront and S3
 
